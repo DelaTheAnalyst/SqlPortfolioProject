@@ -1,4 +1,4 @@
-lilSelect *
+Select *
 From PortfoliProject..CovidDeaths
 Where continent is not null
 order by 3,4
